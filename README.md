@@ -1,24 +1,6 @@
 # README
+このリポジトリは、Rails7でReact（TypeScript, tsx）を動かすためのサンプルコードです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+詳細につきましてはこちらのブログ記事をご参照ください。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- WIP
