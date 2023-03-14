@@ -1,6 +1,6 @@
-# fly.toml file generated for young-bush-3255 on 2023-03-14T21:21:21+09:00
+# fly.toml file generated for elephantbox on 2023-03-15T02:23:54+09:00
 
-app = "young-bush-3255"
+app = "elephantbox"
 kill_signal = "SIGINT"
 kill_timeout = 5
 primary_region = "nrt"
